@@ -5,6 +5,7 @@
   - [Covered Patterns](#covered-patterns)
     - [Creational patterns](#creational-patterns)
       - [Singleton](#singleton)
+      - [Factory](#factory)
 
 
 # Design Patterns
@@ -24,3 +25,4 @@ Design patterns are standard, proven techniques to solve specific types of probl
 
 ### Creational patterns
 #### [Singleton](app/src/main/java/design/patterns/singleton/)
+#### [Factory](app/src/main/java/design/patterns/factory/)
