@@ -18,7 +18,7 @@ The factory can be used to create different types of vehicles like this:
 VehicleFactory factory = new VehicleFactory();
 
 Vehicle car = factory.getVehicle("CAR");
-car.create();  // Outputs: Creating a car.
+car.create();  // Outputs: Creating car object
 
 Vehicle truck = factory.getVehicle("TRUCK");
-truck.create();  // Outputs: Creating a truck.
+truck.create();  // Outputs: Creating truck object
