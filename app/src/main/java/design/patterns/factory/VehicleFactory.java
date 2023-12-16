@@ -2,7 +2,7 @@ package design.patterns.factory;
 
 public class VehicleFactory {
 
-    public VehicleTypeInterface getVehicle(String type) throws IllegalArgumentException {
+    public Vehicle getVehicle(String type) throws IllegalArgumentException {
 
         if (type == null) {
             throw new IllegalArgumentException("Type of vehicle cannot be null");

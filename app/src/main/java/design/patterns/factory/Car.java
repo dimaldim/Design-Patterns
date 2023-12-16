@@ -1,6 +1,6 @@
 package design.patterns.factory;
 
-public class Car implements VehicleTypeInterface {
+public class Car implements Vehicle {
 
     @Override
     public void create() {

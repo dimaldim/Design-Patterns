@@ -1,6 +1,6 @@
 package design.patterns.factory;
 
-public interface VehicleTypeInterface {
+public interface Vehicle {
 
     void create();
 }

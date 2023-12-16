@@ -12,10 +12,10 @@ public class VehicleFactoryTest {
         VehicleFactory vehicleFactory = new VehicleFactory();
 
         // Test for valid vehicle types
-        VehicleTypeInterface vehicle1 = vehicleFactory.getVehicle("CAR");
+        Vehicle vehicle1 = vehicleFactory.getVehicle("CAR");
         assertTrue(vehicle1 instanceof Car);
 
-        VehicleTypeInterface vehicle2 = vehicleFactory.getVehicle("TRUCK");
+        Vehicle vehicle2 = vehicleFactory.getVehicle("TRUCK");
         assertTrue(vehicle2 instanceof Truck);
     }
 
