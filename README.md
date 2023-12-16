@@ -2,6 +2,9 @@
   - [What are Design Patterns?](#what-are-design-patterns)
   - [Why are they important?](#why-are-they-important)
 - [Getting started](#getting-started)
+  - [Covered Patterns](#covered-patterns)
+    - [Creational patterns](#creational-patterns)
+      - [Singleton](#singleton)
 
 
 # Design Patterns
@@ -16,3 +19,8 @@ Design patterns are standard, proven techniques to solve specific types of probl
 - **Communication**: Design patterns provide standard terminology and are specific to particular scenarios, making communication among developers easier.
 
 # Getting started
+
+## Covered Patterns
+
+### Creational patterns
+#### [Singleton](app/src/main/java/design/patterns/singleton/)
