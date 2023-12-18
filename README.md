@@ -7,6 +7,7 @@
       - [Factory](#factory)
       - [Abstract Factory](#abstract-factory)
       - [Builder](#builder)
+      - [Prototype](#prototype)
 
 
 # Design Patterns
@@ -27,3 +28,4 @@ Design patterns are standard, proven techniques to solve specific types of probl
 #### [Factory](app/src/main/java/design/patterns/factory/)
 #### [Abstract Factory](app/src/main/java/design/patterns/abstractfactory/)
 #### [Builder](app/src/main/java/design/patterns/builder/)
+#### [Prototype](app/src/main/java/design/patterns/prototype/)
