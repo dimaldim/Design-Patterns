@@ -2,11 +2,11 @@
   - [What are Design Patterns?](#what-are-design-patterns)
   - [Why are they important?](#why-are-they-important)
 - [Getting started](#getting-started)
-  - [Covered Patterns](#covered-patterns)
     - [Creational patterns](#creational-patterns)
       - [Singleton](#singleton)
       - [Factory](#factory)
       - [Abstract Factory](#abstract-factory)
+      - [Builder](#builder)
 
 
 # Design Patterns
@@ -22,9 +22,8 @@ Design patterns are standard, proven techniques to solve specific types of probl
 
 # Getting started
 
-## Covered Patterns
-
 ### Creational patterns
 #### [Singleton](app/src/main/java/design/patterns/singleton/)
 #### [Factory](app/src/main/java/design/patterns/factory/)
 #### [Abstract Factory](app/src/main/java/design/patterns/abstractfactory/)
+#### [Builder](app/src/main/java/design/patterns/builder/)
