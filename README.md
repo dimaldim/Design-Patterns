@@ -27,4 +27,4 @@ Design patterns are standard, proven techniques to solve specific types of probl
 ### Creational patterns
 #### [Singleton](app/src/main/java/design/patterns/singleton/)
 #### [Factory](app/src/main/java/design/patterns/factory/)
-#### [Abstract Factory](app/src/main/java/design/patterns/abstract-factory/)
+#### [Abstract Factory](app/src/main/java/design/patterns/abstractfactory/)
